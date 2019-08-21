@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-calculator/static/css/main.456b4a74.chunk.css",
+    "main.js": "/react-calculator/static/js/main.e78005ff.chunk.js",
+    "main.js.map": "/react-calculator/static/js/main.e78005ff.chunk.js.map",
+    "runtime~main.js": "/react-calculator/static/js/runtime~main.5bf484b4.js",
+    "runtime~main.js.map": "/react-calculator/static/js/runtime~main.5bf484b4.js.map",
+    "static/css/2.659c7271.chunk.css": "/react-calculator/static/css/2.659c7271.chunk.css",
+    "static/js/2.4c8464b5.chunk.js": "/react-calculator/static/js/2.4c8464b5.chunk.js",
+    "static/js/2.4c8464b5.chunk.js.map": "/react-calculator/static/js/2.4c8464b5.chunk.js.map",
+    "index.html": "/react-calculator/index.html",
+    "precache-manifest.ad8ae6873de6ff043066d22664095f1a.js": "/react-calculator/precache-manifest.ad8ae6873de6ff043066d22664095f1a.js",
+    "service-worker.js": "/react-calculator/service-worker.js",
+    "static/css/2.659c7271.chunk.css.map": "/react-calculator/static/css/2.659c7271.chunk.css.map",
+    "static/css/main.456b4a74.chunk.css.map": "/react-calculator/static/css/main.456b4a74.chunk.css.map",
+    "static/media/bootstrap.min.css": "/react-calculator/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
